@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Tam Tran 👋
 
-<!--
-**trandongtam/trandongtam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 Senior Developer với 5 năm kinh nghiệm trong lĩnh vực Web và Mobile Apps
 
-Here are some ideas to get you started:
+## Tech Stack & Expertise
+- **Front-end:** React, React Native, Redux, Styled Components
+- **Back-end:** Golang, Node.js
+- **Database:** PostgreSQL, MongoDB
+- **Cloud & DevOps:** Docker, Kubernetes, AWS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+- [LinkedIn](https://www.linkedin.com/in/tam-tran-48b2551b1/)
+- Email: trandongtam.it@gmail.com
