@@ -1,8 +1,7 @@
 # Hi there, I'm Tam Tran 👋
 
 ## About Me
-- 🌱 Senior Developer với 5 năm kinh nghiệm trong lĩnh vực Web và Mobile Apps
-
+- 🌱 5+ years’ software engineer specializing in mobile & web development, with a proven record of delivering high‑quality, on‑time, on‑budget solutions. Passionate about IoT and cloud computing, I leverage emerging technologies to build innovations that improve lives.
 ## Tech Stack & Expertise
 - **Front-end:** React, React Native, Redux, Styled Components
 - **Back-end:** Golang, Node.js
